@@ -41,7 +41,7 @@ fn  print_weapon_vtable_addresses() {
             let owner_name = LOWERCASE_WEAPON_OWNER_NAMES.get(weapon_kind as usize).unwrap();
 
             output_weapon.push_str(&format!("{}::{}\n",owner_name, name));
-            for entry in 0..102 {
+            for entry in 0..104 {
                 let function = *first_entry_ptr.add(entry as usize) - skyline::hooks::getRegionAddress(skyline::hooks::Region::Text) as usize;
                 output_weapon.push_str(&format!("{:03}:  71{:08x}\n", entry, function));
             }
@@ -82,7 +82,7 @@ fn  print_weapon_vtable_pointer_addresses() {
             let owner_name = LOWERCASE_WEAPON_OWNER_NAMES.get(weapon_kind as usize).unwrap();
 
             output_weapon.push_str(&format!("{}::{}\n",owner_name, name));
-            for entry in 0..102 {
+            for entry in 0..104 {
                 let function = first_entry_ptr.add(entry as usize) as usize - skyline::hooks::getRegionAddress(skyline::hooks::Region::Text) as usize;
                 output_weapon.push_str(&format!("{:03}:  71{:08x}\n", entry, function));
             }

@@ -101,6 +101,8 @@ miifighter::hat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miifighter::ironball
 000:  71033bb1a0
@@ -205,6 +207,8 @@ miifighter::ironball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miiswordsman::hat
 000:  71033bb1a0
@@ -309,6 +313,8 @@ miiswordsman::hat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miiswordsman::lightshuriken
 000:  71033bb1a0
@@ -413,6 +419,8 @@ miiswordsman::lightshuriken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miiswordsman::chakram
 000:  71033bb1a0
@@ -517,6 +525,8 @@ miiswordsman::chakram
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miiswordsman::tornadoshot
 000:  71033bb1a0
@@ -621,6 +631,8 @@ miiswordsman::tornadoshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miiswordsman::wave
 000:  71033bb1a0
@@ -725,6 +737,8 @@ miiswordsman::wave
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::hat
 000:  71033bb1a0
@@ -829,6 +843,8 @@ miigunner::hat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::rapidshot_bullet
 000:  71033bb1a0
@@ -933,6 +949,8 @@ miigunner::rapidshot_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::gunnercharge
 000:  71033bb1a0
@@ -1037,6 +1055,8 @@ miigunner::gunnercharge
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::miimissile
 000:  71033bb1a0
@@ -1141,6 +1161,8 @@ miigunner::miimissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::supermissile
 000:  71033bb1a0
@@ -1245,6 +1267,8 @@ miigunner::supermissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::grenadelauncher
 000:  71033bb1a0
@@ -1349,6 +1373,8 @@ miigunner::grenadelauncher
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::flamepillar
 000:  71033bb1a0
@@ -1453,6 +1479,8 @@ miigunner::flamepillar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::stealthbomb
 000:  71033bb1a0
@@ -1557,6 +1585,8 @@ miigunner::stealthbomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::stealthbomb_s
 000:  71033bb1a0
@@ -1661,6 +1691,8 @@ miigunner::stealthbomb_s
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::bottomshoot
 000:  71033bb1a0
@@ -1765,6 +1797,8 @@ miigunner::bottomshoot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::groundbomb
 000:  71033bb1a0
@@ -1869,6 +1903,8 @@ miigunner::groundbomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::attackairf_bullet
 000:  71033bb1a0
@@ -1973,6 +2009,8 @@ miigunner::attackairf_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::laser
 000:  71033bb1a0
@@ -2077,6 +2115,8 @@ miigunner::laser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miigunner::fullthrottle
 000:  71033bb1a0
@@ -2181,6 +2221,8 @@ miigunner::fullthrottle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::fireball
 000:  71033bb1a0
@@ -2285,6 +2327,8 @@ mario::fireball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::mantle
 000:  71033bb1a0
@@ -2389,6 +2433,8 @@ mario::mantle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::pump
 000:  71033bb1a0
@@ -2493,6 +2539,8 @@ mario::pump
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::pumpwater
 000:  71033bb1a0
@@ -2597,6 +2645,8 @@ mario::pumpwater
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::hugeflame
 000:  71033bb1a0
@@ -2701,6 +2751,8 @@ mario::hugeflame
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::dokan
 000:  71033bb1a0
@@ -2805,6 +2857,8 @@ mario::dokan
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mario::cappy
 000:  71033bb1a0
@@ -2909,6 +2963,8 @@ mario::cappy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 donkey::dkbarrel
 000:  71033bb1a0
@@ -3013,6 +3069,8 @@ donkey::dkbarrel
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::boomerang
 000:  71033bb1a0
@@ -3117,6 +3175,8 @@ link::boomerang
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::bow
 000:  71033bb1a0
@@ -3221,6 +3281,8 @@ link::bow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::bowarrow
 000:  71033bb1a0
@@ -3325,6 +3387,8 @@ link::bowarrow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::navy
 000:  71033bb1a0
@@ -3429,6 +3493,8 @@ link::navy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::swordbeam
 000:  71033bb1a0
@@ -3533,6 +3599,8 @@ link::swordbeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::ancientbow
 000:  71033bb1a0
@@ -3637,6 +3705,8 @@ link::ancientbow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::ancientbowarrow
 000:  71033bb1a0
@@ -3741,6 +3811,8 @@ link::ancientbowarrow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 link::parasail
 000:  71033bb1a0
@@ -3845,6 +3917,8 @@ link::parasail
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::cshot
 000:  71033bb1a0
@@ -3949,6 +4023,8 @@ samus::cshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::bomb
 000:  71033bb1a0
@@ -4053,6 +4129,8 @@ samus::bomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::missile
 000:  71033bb1a0
@@ -4157,6 +4235,8 @@ samus::missile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::laser
 000:  71033bb1a0
@@ -4261,6 +4341,8 @@ samus::laser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::laser2
 000:  71033bb1a0
@@ -4365,6 +4447,8 @@ samus::laser2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::gun
 000:  71033bb1a0
@@ -4469,6 +4553,8 @@ samus::gun
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::supermissile
 000:  71033bb1a0
@@ -4573,6 +4659,8 @@ samus::supermissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::transportation
 000:  71033bb1a0
@@ -4677,6 +4765,8 @@ samus::transportation
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samus::gbeam
 000:  71033bb1a0
@@ -4781,6 +4871,8 @@ samus::gbeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::cshot
 000:  71033bb1a0
@@ -4885,6 +4977,8 @@ samusd::cshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::bomb
 000:  71033bb1a0
@@ -4989,6 +5083,8 @@ samusd::bomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::missile
 000:  71033bb1a0
@@ -5093,6 +5189,8 @@ samusd::missile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::laser
 000:  71033bb1a0
@@ -5197,6 +5295,8 @@ samusd::laser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::laser2
 000:  71033bb1a0
@@ -5301,6 +5401,8 @@ samusd::laser2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::gun
 000:  71033bb1a0
@@ -5405,6 +5507,8 @@ samusd::gun
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::supermissile
 000:  71033bb1a0
@@ -5509,6 +5613,8 @@ samusd::supermissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::transportation
 000:  71033bb1a0
@@ -5613,6 +5719,8 @@ samusd::transportation
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::gbeam
 000:  71033bb1a0
@@ -5717,6 +5825,8 @@ samusd::gbeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 samusd::bunshin
 000:  71033bb1a0
@@ -5821,6 +5931,8 @@ samusd::bunshin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 yoshi::star
 000:  71033bb1a0
@@ -5925,6 +6037,8 @@ yoshi::star
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 yoshi::tamago
 000:  71033bb1a0
@@ -6029,6 +6143,8 @@ yoshi::tamago
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 yoshi::yoshimob
 000:  71033bb1a0
@@ -6133,6 +6249,8 @@ yoshi::yoshimob
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 yoshi::yoshibg01
 000:  71033bb1a0
@@ -6237,6 +6355,8 @@ yoshi::yoshibg01
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::hammer
 000:  71033bb1a0
@@ -6341,6 +6461,8 @@ kirby::hammer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::finalcuttershot
 000:  71033bb1a0
@@ -6445,6 +6567,8 @@ kirby::finalcuttershot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::starmissile
 000:  71033bb1a0
@@ -6549,6 +6673,8 @@ kirby::starmissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::hat
 000:  71033bb1a0
@@ -6653,6 +6779,8 @@ kirby::hat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::ultrasword
 000:  71033bb1a0
@@ -6757,6 +6885,8 @@ kirby::ultrasword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::ultraswordhat
 000:  71033bb1a0
@@ -6861,6 +6991,8 @@ kirby::ultraswordhat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::warpstar
 000:  71033bb1a0
@@ -6965,6 +7097,8 @@ kirby::warpstar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::reserve
 000:  71033bb1a0
@@ -7069,6 +7203,8 @@ kirby::reserve
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::simple
 000:  71033bb1a0
@@ -7173,6 +7309,8 @@ kirby::simple
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::miipartshead
 000:  71033bb1a0
@@ -7277,6 +7415,8 @@ kirby::miipartshead
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::rosettaticomissile
 000:  71033bb1a0
@@ -7381,6 +7521,8 @@ kirby::rosettaticomissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::stone
 000:  71033bb1a0
@@ -7485,6 +7627,8 @@ kirby::stone
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::simple2r
 000:  71033bb1a0
@@ -7589,6 +7733,8 @@ kirby::simple2r
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::simple2l
 000:  71033bb1a0
@@ -7693,6 +7839,8 @@ kirby::simple2l
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::windummy
 000:  71033bb1a0
@@ -7797,6 +7945,8 @@ kirby::windummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kirby::finalcutter
 000:  71033bb1a0
@@ -7901,6 +8051,8 @@ kirby::finalcutter
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikachu::dengekidama
 000:  71033bb1a0
@@ -8005,6 +8157,8 @@ pikachu::dengekidama
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034a2d30
 
 pikachu::dengeki
 000:  71033bb1a0
@@ -8109,6 +8263,8 @@ pikachu::dengeki
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034a22e0
 
 pikachu::kaminari
 000:  71033bb1a0
@@ -8213,6 +8369,8 @@ pikachu::kaminari
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034a4b30
 
 pikachu::cloud
 000:  71033bb1a0
@@ -8317,6 +8475,8 @@ pikachu::cloud
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikachu::vortex
 000:  71034a50e0
@@ -8421,6 +8581,8 @@ pikachu::vortex
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikachu::monsterball
 000:  71033bb1a0
@@ -8525,6 +8687,8 @@ pikachu::monsterball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikachu::specialupdummy
 000:  71033bb1a0
@@ -8629,6 +8793,8 @@ pikachu::specialupdummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 luigi::fireball
 000:  71033bb1a0
@@ -8733,6 +8899,8 @@ luigi::fireball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 luigi::dokan
 000:  71033bb1a0
@@ -8837,6 +9005,8 @@ luigi::dokan
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 luigi::obakyumu
 000:  710343aab0
@@ -8941,6 +9111,8 @@ luigi::obakyumu
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 luigi::plunger
 000:  710343e2b0
@@ -9045,6 +9217,8 @@ luigi::plunger
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 captain::bluefalcon
 000:  71033bb1a0
@@ -9149,6 +9323,8 @@ captain::bluefalcon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 captain::falconpunch
 000:  71033bb1a0
@@ -9253,6 +9429,8 @@ captain::falconpunch
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 fox::blaster
 000:  71033bb1a0
@@ -9357,6 +9535,8 @@ fox::blaster
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 fox::blaster_bullet
 000:  71033bb1a0
@@ -9461,6 +9641,8 @@ fox::blaster_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 fox::illusion
 000:  71033bb1a0
@@ -9565,6 +9747,8 @@ fox::illusion
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 fox::arwing
 000:  71033bb1a0
@@ -9669,6 +9853,8 @@ fox::arwing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 fox::reticle
 000:  71033bb1a0
@@ -9773,6 +9959,8 @@ fox::reticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 fox::arwingshot
 000:  71033bb1a0
@@ -9877,6 +10065,8 @@ fox::arwingshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::pkflash
 000:  71033bb1a0
@@ -9981,6 +10171,8 @@ ness::pkflash
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::pkfire
 000:  71033bb1a0
@@ -10085,6 +10277,8 @@ ness::pkfire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::pkthunder
 000:  710346ed60
@@ -10189,6 +10383,8 @@ ness::pkthunder
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::pkstarstorm
 000:  71033bb1a0
@@ -10293,6 +10489,8 @@ ness::pkstarstorm
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::paula
 000:  71033bb1a0
@@ -10397,6 +10595,8 @@ ness::paula
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::poo
 000:  71033bb1a0
@@ -10501,6 +10701,8 @@ ness::poo
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::yoyo
 000:  71033bb1a0
@@ -10605,6 +10807,8 @@ ness::yoyo
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ness::yoyohead
 000:  71033bb1a0
@@ -10709,6 +10913,8 @@ ness::yoyohead
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 peach::kassar
 000:  71033bb1a0
@@ -10813,6 +11019,8 @@ peach::kassar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 peach::kinopio
 000:  71033bb1a0
@@ -10917,6 +11125,8 @@ peach::kinopio
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 peach::kinopiospore
 000:  71033bb1a0
@@ -11021,6 +11231,8 @@ peach::kinopiospore
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 daisy::kassar
 000:  71033bb1a0
@@ -11125,6 +11337,8 @@ daisy::kassar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 daisy::kinopio
 000:  71033bb1a0
@@ -11229,6 +11443,8 @@ daisy::kinopio
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 daisy::kinopiospore
 000:  71033bb1a0
@@ -11333,6 +11549,8 @@ daisy::kinopiospore
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopa::breath
 000:  71033bb1a0
@@ -11437,6 +11655,8 @@ koopa::breath
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopa::koopag
 000:  7103422e80
@@ -11541,6 +11761,8 @@ koopa::koopag
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 zelda::dein
 000:  71033bb1a0
@@ -11645,6 +11867,8 @@ zelda::dein
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 zelda::dein_s
 000:  71033bb1a0
@@ -11749,6 +11973,8 @@ zelda::dein_s
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 zelda::phantom
 000:  7103537a60
@@ -11853,6 +12079,8 @@ zelda::phantom
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 zelda::triforce
 000:  71033bb1a0
@@ -11957,6 +12185,8 @@ zelda::triforce
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sheik::needle
 000:  71033bb1a0
@@ -12061,6 +12291,8 @@ sheik::needle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sheik::needlehave
 000:  71033bb1a0
@@ -12165,6 +12397,8 @@ sheik::needlehave
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sheik::fusin
 000:  71033bb1a0
@@ -12269,6 +12503,8 @@ sheik::fusin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sheik::knife
 000:  71033bb1a0
@@ -12373,6 +12609,8 @@ sheik::knife
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::food
 000:  71033fcb50
@@ -12477,6 +12715,8 @@ gamewatch::food
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::rescue
 000:  71033bb1a0
@@ -12581,6 +12821,8 @@ gamewatch::rescue
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::parachute
 000:  71033bb1a0
@@ -12685,6 +12927,8 @@ gamewatch::parachute
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::panel
 000:  71033bb1a0
@@ -12789,6 +13033,8 @@ gamewatch::panel
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::oil
 000:  71033bb1a0
@@ -12893,6 +13139,8 @@ gamewatch::oil
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::octopus
 000:  71033febd0
@@ -12997,6 +13245,8 @@ gamewatch::octopus
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::normal_weapon
 000:  71033bb1a0
@@ -13101,6 +13351,8 @@ gamewatch::normal_weapon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::breath
 000:  71033bb1a0
@@ -13205,6 +13457,8 @@ gamewatch::breath
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::entry
 000:  71033bb1a0
@@ -13309,6 +13563,8 @@ gamewatch::entry
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gamewatch::bomb
 000:  71033bb1a0
@@ -13413,6 +13669,8 @@ gamewatch::bomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ganon::sword
 000:  71033bb1a0
@@ -13517,6 +13775,8 @@ ganon::sword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ganon::beast
 000:  71034015a0
@@ -13621,6 +13881,8 @@ ganon::beast
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ganon::ganond
 000:  7103403370
@@ -13725,6 +13987,8 @@ ganon::ganond
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 falco::blaster
 000:  71033bb1a0
@@ -13829,6 +14093,8 @@ falco::blaster
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 falco::blaster_bullet
 000:  71033bb1a0
@@ -13933,6 +14199,8 @@ falco::blaster_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 falco::illusion
 000:  71033bb1a0
@@ -14037,6 +14305,8 @@ falco::illusion
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 falco::arwing
 000:  71033bb1a0
@@ -14141,6 +14411,8 @@ falco::arwing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 falco::reticle
 000:  71033bb1a0
@@ -14245,6 +14517,8 @@ falco::reticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 falco::arwingshot
 000:  71033bb1a0
@@ -14349,6 +14623,8 @@ falco::arwingshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wario::wariobike
 000:  71033bb1a0
@@ -14453,6 +14729,8 @@ wario::wariobike
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wario::garlic
 000:  71033bb1a0
@@ -14557,6 +14835,8 @@ wario::garlic
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wario::warioman
 000:  71033bb1a0
@@ -14661,6 +14941,8 @@ wario::warioman
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 metaknight::mantle
 000:  71033bb1a0
@@ -14765,6 +15047,8 @@ metaknight::mantle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 metaknight::bunshin
 000:  71033bb1a0
@@ -14869,6 +15153,8 @@ metaknight::bunshin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 metaknight::fourwings
 000:  71033bb1a0
@@ -14973,6 +15259,8 @@ metaknight::fourwings
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pit::bow
 000:  71033bb1a0
@@ -15077,6 +15365,8 @@ pit::bow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pit::bowarrow
 000:  71033bb1a0
@@ -15181,6 +15471,8 @@ pit::bowarrow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pit::chariot
 000:  71033bb1a0
@@ -15285,6 +15577,8 @@ pit::chariot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pit::horse
 000:  71033bb1a0
@@ -15389,6 +15683,8 @@ pit::horse
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pit::chariotsight
 000:  71033bb1a0
@@ -15493,6 +15789,8 @@ pit::chariotsight
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::paralyzer_bullet
 000:  710350dec0
@@ -15597,6 +15895,8 @@ szerosuit::paralyzer_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::whip
 000:  71033bb1a0
@@ -15701,6 +16001,8 @@ szerosuit::whip
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::paralyzer
 000:  71033bb1a0
@@ -15805,6 +16107,8 @@ szerosuit::paralyzer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::samusp
 000:  71035112e0
@@ -15909,6 +16213,8 @@ szerosuit::samusp
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::gunship
 000:  710350a810
@@ -16013,6 +16319,8 @@ szerosuit::gunship
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::reticle
 000:  710350fe60
@@ -16117,6 +16425,8 @@ szerosuit::reticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::laser
 000:  710350c500
@@ -16221,6 +16531,8 @@ szerosuit::laser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 szerosuit::whip2
 000:  71033bb1a0
@@ -16325,6 +16637,8 @@ szerosuit::whip2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikmin::pikmin
 000:  71034a9790
@@ -16429,6 +16743,8 @@ pikmin::pikmin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikmin::dolfin
 000:  71034a8470
@@ -16533,6 +16849,8 @@ pikmin::dolfin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikmin::win1
 000:  71033bb1a0
@@ -16637,6 +16955,8 @@ pikmin::win1
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikmin::win2
 000:  71033bb1a0
@@ -16741,6 +17061,8 @@ pikmin::win2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pikmin::win3
 000:  71033bb1a0
@@ -16845,6 +17167,8 @@ pikmin::win3
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::gun
 000:  71033bb1a0
@@ -16949,6 +17273,8 @@ diddy::gun
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::barreljet
 000:  71033bb1a0
@@ -17053,6 +17379,8 @@ diddy::barreljet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::peanuts
 000:  71033bb1a0
@@ -17157,6 +17485,8 @@ diddy::peanuts
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::explosion
 000:  71033bb1a0
@@ -17261,6 +17591,8 @@ diddy::explosion
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::barreljets
 000:  71033bb1a0
@@ -17365,6 +17697,8 @@ diddy::barreljets
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::bunshin
 000:  71033bb1a0
@@ -17469,6 +17803,8 @@ diddy::bunshin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::dkbarrel
 000:  71033bb1a0
@@ -17573,6 +17909,8 @@ diddy::dkbarrel
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 diddy::lock_on_cursor
 000:  71033bb1a0
@@ -17677,6 +18015,8 @@ diddy::lock_on_cursor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::jethammer
 000:  71033bb1a0
@@ -17781,6 +18121,8 @@ dedede::jethammer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::starmissile
 000:  71033bb1a0
@@ -17885,6 +18227,8 @@ dedede::starmissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::star
 000:  71033bb1a0
@@ -17989,6 +18333,8 @@ dedede::star
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::gordo
 000:  71033bb1a0
@@ -18093,6 +18439,8 @@ dedede::gordo
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::shrine
 000:  71033bb1a0
@@ -18197,6 +18545,8 @@ dedede::shrine
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::waddledee
 000:  71033bb1a0
@@ -18301,6 +18651,8 @@ dedede::waddledee
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::newdededehammer
 000:  71033bb1a0
@@ -18405,6 +18757,8 @@ dedede::newdededehammer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::mask
 000:  71033bb1a0
@@ -18509,6 +18863,8 @@ dedede::mask
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dedede::missile
 000:  71033bb1a0
@@ -18613,6 +18969,8 @@ dedede::missile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ike::sword
 000:  71033bb1a0
@@ -18717,6 +19075,8 @@ ike::sword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucario::auraball
 000:  71033bb1a0
@@ -18821,6 +19181,8 @@ lucario::auraball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  7103431490
+103:  71033be780
 
 lucario::qigong
 000:  71033bb1a0
@@ -18925,6 +19287,8 @@ lucario::qigong
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucario::lucariom
 000:  71033bb1a0
@@ -19029,6 +19393,8 @@ lucario::lucariom
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::gyro
 000:  71033bb1a0
@@ -19133,6 +19499,8 @@ robot::gyro
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::gyroholder
 000:  71033bb1a0
@@ -19237,6 +19605,8 @@ robot::gyroholder
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::beam
 000:  71033bb1a0
@@ -19341,6 +19711,8 @@ robot::beam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::finalbeam
 000:  71033bb1a0
@@ -19445,6 +19817,8 @@ robot::finalbeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::hugebeam
 000:  71033bb1a0
@@ -19549,6 +19923,8 @@ robot::hugebeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::narrowbeam
 000:  71033bb1a0
@@ -19653,6 +20029,8 @@ robot::narrowbeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::widebeam
 000:  71033bb1a0
@@ -19757,6 +20135,8 @@ robot::widebeam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::mainlaser
 000:  71033bb1a0
@@ -19861,6 +20241,8 @@ robot::mainlaser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::hominglaser
 000:  71033bb1a0
@@ -19965,6 +20347,8 @@ robot::hominglaser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 robot::homingtarget
 000:  71033bb1a0
@@ -20069,6 +20453,8 @@ robot::homingtarget
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::boomerang
 000:  71033bb1a0
@@ -20173,6 +20559,8 @@ toonlink::boomerang
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::bow
 000:  71033bb1a0
@@ -20277,6 +20665,8 @@ toonlink::bow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::bowarrow
 000:  71033bb1a0
@@ -20381,6 +20771,8 @@ toonlink::bowarrow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::hookshot
 000:  71033bb1a0
@@ -20485,6 +20877,8 @@ toonlink::hookshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::hookshothand
 000:  71033bb1a0
@@ -20589,6 +20983,8 @@ toonlink::hookshothand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::fairy
 000:  71033bb1a0
@@ -20693,6 +21089,8 @@ toonlink::fairy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::takt
 000:  71033bb1a0
@@ -20797,6 +21195,8 @@ toonlink::takt
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 toonlink::pig
 000:  71033bb1a0
@@ -20901,6 +21301,8 @@ toonlink::pig
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wolf::blaster
 000:  71033bb1a0
@@ -21005,6 +21407,8 @@ wolf::blaster
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wolf::blaster_bullet
 000:  71033bb1a0
@@ -21109,6 +21513,8 @@ wolf::blaster_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wolf::illusion
 000:  71033bb1a0
@@ -21213,6 +21619,8 @@ wolf::illusion
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wolf::wolfen
 000:  71033bb1a0
@@ -21317,6 +21725,8 @@ wolf::wolfen
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wolf::reticle
 000:  71033bb1a0
@@ -21421,6 +21831,8 @@ wolf::reticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 plizardon::breath
 000:  71033bb1a0
@@ -21525,6 +21937,8 @@ plizardon::breath
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 plizardon::explosion
 000:  71033bb1a0
@@ -21629,6 +22043,8 @@ plizardon::explosion
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 plizardon::daimonji
 000:  71033bb1a0
@@ -21733,6 +22149,8 @@ plizardon::daimonji
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sonic::homingtarget
 000:  71033bb1a0
@@ -21837,6 +22255,8 @@ sonic::homingtarget
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sonic::gimmickjump
 000:  71033bb1a0
@@ -21941,6 +22361,8 @@ sonic::gimmickjump
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sonic::supersonic
 000:  7103508b20
@@ -22045,6 +22467,8 @@ sonic::supersonic
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 sonic::chaosemerald
 000:  71033bb1a0
@@ -22149,6 +22573,8 @@ sonic::chaosemerald
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 purin::cap
 000:  71033bb1a0
@@ -22253,6 +22679,8 @@ purin::cap
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 purin::monsterball
 000:  71033bb1a0
@@ -22357,6 +22785,8 @@ purin::monsterball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mariod::drcapsule
 000:  71033bb1a0
@@ -22461,6 +22891,8 @@ mariod::drcapsule
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mariod::drmantle
 000:  71033bb1a0
@@ -22565,6 +22997,8 @@ mariod::drmantle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mariod::stethoscope
 000:  71033bb1a0
@@ -22669,6 +23103,8 @@ mariod::stethoscope
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mariod::hugecapsule
 000:  71033bb1a0
@@ -22773,6 +23209,8 @@ mariod::hugecapsule
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mariod::capsuleblock
 000:  71033bb1a0
@@ -22877,6 +23315,8 @@ mariod::capsuleblock
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pichu::dengekidama
 000:  71033bb1a0
@@ -22981,6 +23421,8 @@ pichu::dengekidama
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034a2d30
 
 pichu::dengeki
 000:  71033bb1a0
@@ -23085,6 +23527,8 @@ pichu::dengeki
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034a22e0
 
 pichu::kaminari
 000:  71033bb1a0
@@ -23189,6 +23633,8 @@ pichu::kaminari
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034a4b30
 
 pichu::cloud
 000:  71033bb1a0
@@ -23293,6 +23739,8 @@ pichu::cloud
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pichu::vortex
 000:  71034a50e0
@@ -23397,6 +23845,8 @@ pichu::vortex
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pichu::monsterball
 000:  71033bb1a0
@@ -23501,6 +23951,8 @@ pichu::monsterball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pichu::specialupdummy
 000:  71033bb1a0
@@ -23605,6 +24057,8 @@ pichu::specialupdummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucina::mask
 000:  71033bb1a0
@@ -23709,6 +24163,8 @@ lucina::mask
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pitb::bow
 000:  71033bb1a0
@@ -23813,6 +24269,8 @@ pitb::bow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pitb::bowarrow
 000:  71033bb1a0
@@ -23917,6 +24375,8 @@ pitb::bowarrow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rosetta::tico
 000:  71034dfd70
@@ -24021,6 +24481,8 @@ rosetta::tico
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rosetta::starpiece
 000:  71033bb1a0
@@ -24125,6 +24587,8 @@ rosetta::starpiece
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rosetta::ring
 000:  71033bb1a0
@@ -24229,6 +24693,8 @@ rosetta::ring
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rosetta::pointer
 000:  71033bb1a0
@@ -24333,6 +24799,8 @@ rosetta::pointer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rosetta::powerstar
 000:  71034de380
@@ -24437,6 +24905,8 @@ rosetta::powerstar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rosetta::meteor
 000:  71033bb1a0
@@ -24541,6 +25011,8 @@ rosetta::meteor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::hulahoop
 000:  71033bb1a0
@@ -24645,6 +25117,8 @@ wiifit::hulahoop
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::sunbullet
 000:  71033bb1a0
@@ -24749,6 +25223,8 @@ wiifit::sunbullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::balanceboard
 000:  71033bb1a0
@@ -24853,6 +25329,8 @@ wiifit::balanceboard
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::wiibo
 000:  71033bb1a0
@@ -24957,6 +25435,8 @@ wiifit::wiibo
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::towel
 000:  71033bb1a0
@@ -25061,6 +25541,8 @@ wiifit::towel
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::silhouette
 000:  71033bb1a0
@@ -25165,6 +25647,8 @@ wiifit::silhouette
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 wiifit::silhouettel
 000:  71033bb1a0
@@ -25269,6 +25753,8 @@ wiifit::silhouettel
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 littlemac::doclouis
 000:  71033bb1a0
@@ -25373,6 +25859,8 @@ littlemac::doclouis
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 littlemac::sweatlittlemac
 000:  71033bb1a0
@@ -25477,6 +25965,8 @@ littlemac::sweatlittlemac
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 littlemac::throwsweat
 000:  71033bb1a0
@@ -25581,6 +26071,8 @@ littlemac::throwsweat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 littlemac::championbelt
 000:  71033bb1a0
@@ -25685,6 +26177,8 @@ littlemac::championbelt
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 littlemac::littlemacg
 000:  71033bb1a0
@@ -25789,6 +26283,8 @@ littlemac::littlemacg
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::flowerpot
 000:  71033bb1a0
@@ -25893,6 +26389,8 @@ murabito::flowerpot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::umbrella
 000:  71033bb1a0
@@ -25997,6 +26495,8 @@ murabito::umbrella
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::bowlingball
 000:  71033bb1a0
@@ -26101,6 +26601,8 @@ murabito::bowlingball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::firework
 000:  71033bb1a0
@@ -26205,6 +26707,8 @@ murabito::firework
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::slingshot
 000:  71033bb1a0
@@ -26309,6 +26813,8 @@ murabito::slingshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::bullet
 000:  71033bb1a0
@@ -26413,6 +26919,8 @@ murabito::bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::weeds
 000:  71033bb1a0
@@ -26517,6 +27025,8 @@ murabito::weeds
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::butterflynet
 000:  71033bb1a0
@@ -26621,6 +27131,8 @@ murabito::butterflynet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::balloon
 000:  710345c060
@@ -26725,6 +27237,8 @@ murabito::balloon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::clayrocket
 000:  71034619f0
@@ -26829,6 +27343,8 @@ murabito::clayrocket
 099:  7103461960
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::seed
 000:  71033bb1a0
@@ -26933,6 +27449,8 @@ murabito::seed
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::sprout
 000:  71033bb1a0
@@ -27037,6 +27555,8 @@ murabito::sprout
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::tree
 000:  71033bb1a0
@@ -27141,6 +27661,8 @@ murabito::tree
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::stump
 000:  71033bb1a0
@@ -27245,6 +27767,8 @@ murabito::stump
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::sprinkling_water
 000:  71033bb1a0
@@ -27349,6 +27873,8 @@ murabito::sprinkling_water
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::helmet
 000:  71033bb1a0
@@ -27453,6 +27979,8 @@ murabito::helmet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::tomnook
 000:  7103467e00
@@ -27557,6 +28085,8 @@ murabito::tomnook
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::tommy
 000:  71033bb1a0
@@ -27661,6 +28191,8 @@ murabito::tommy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::timmy
 000:  71033bb1a0
@@ -27765,6 +28297,8 @@ murabito::timmy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::house
 000:  71033bb1a0
@@ -27869,6 +28403,8 @@ murabito::house
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::furniture
 000:  71033bb1a0
@@ -27973,6 +28509,8 @@ murabito::furniture
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::moneybag
 000:  71033bb1a0
@@ -28077,6 +28615,8 @@ murabito::moneybag
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 murabito::beetle
 000:  71033bb1a0
@@ -28181,6 +28721,8 @@ murabito::beetle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::godwing
 000:  71033bb1a0
@@ -28285,6 +28827,8 @@ palutena::godwing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::explosiveflame
 000:  71033bb1a0
@@ -28389,6 +28933,8 @@ palutena::explosiveflame
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::explosiveflame_reserve
 000:  71033bb1a0
@@ -28493,6 +29039,8 @@ palutena::explosiveflame_reserve
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::autoaimbullet
 000:  71033bb1a0
@@ -28597,6 +29145,8 @@ palutena::autoaimbullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::autoreticle
 000:  71033bb1a0
@@ -28701,6 +29251,8 @@ palutena::autoreticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::reflectionboard
 000:  71033bb1a0
@@ -28805,6 +29357,8 @@ palutena::reflectionboard
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::blackhole
 000:  71033bb1a0
@@ -28909,6 +29463,8 @@ palutena::blackhole
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::beam
 000:  71033bb1a0
@@ -29013,6 +29569,8 @@ palutena::beam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 palutena::gate
 000:  71033bb1a0
@@ -29117,6 +29675,8 @@ palutena::gate
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 reflet::book
 000:  71033bb1a0
@@ -29221,6 +29781,8 @@ reflet::book
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 reflet::window
 000:  71033bb1a0
@@ -29325,6 +29887,8 @@ reflet::window
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 reflet::thunder
 000:  71033bb1a0
@@ -29429,6 +29993,8 @@ reflet::thunder
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 reflet::elwind
 000:  71033bb1a0
@@ -29533,6 +30099,8 @@ reflet::elwind
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 reflet::gigafire
 000:  71033bb1a0
@@ -29637,6 +30205,8 @@ reflet::gigafire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 reflet::chrom
 000:  71033bb1a0
@@ -29741,6 +30311,8 @@ reflet::chrom
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::gunman
 000:  71033bb1a0
@@ -29845,6 +30417,8 @@ duckhunt::gunman
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::gunmanbullet
 000:  71033bb1a0
@@ -29949,6 +30523,8 @@ duckhunt::gunmanbullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::clay
 000:  71033e6870
@@ -30053,6 +30629,8 @@ duckhunt::clay
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::can
 000:  71033e3f20
@@ -30157,6 +30735,8 @@ duckhunt::can
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::reticle
 000:  71033bb1a0
@@ -30261,6 +30841,8 @@ duckhunt::reticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::kurofukuhat
 000:  71033bb1a0
@@ -30365,6 +30947,8 @@ duckhunt::kurofukuhat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finalduck
 000:  71033bb1a0
@@ -30469,6 +31053,8 @@ duckhunt::finalduck
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finalgunman
 000:  71033bb1a0
@@ -30573,6 +31159,8 @@ duckhunt::finalgunman
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finalenemy
 000:  71033bb1a0
@@ -30677,6 +31265,8 @@ duckhunt::finalenemy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finaldog
 000:  71033bb1a0
@@ -30781,6 +31371,8 @@ duckhunt::finaldog
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finalbird
 000:  71033bb1a0
@@ -30885,6 +31477,8 @@ duckhunt::finalbird
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finalgrass
 000:  71033bb1a0
@@ -30989,6 +31583,8 @@ duckhunt::finalgrass
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::finalcan
 000:  71033bb1a0
@@ -31093,6 +31689,8 @@ duckhunt::finalcan
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 duckhunt::grass
 000:  71033bb1a0
@@ -31197,6 +31795,8 @@ duckhunt::grass
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::hammer
 000:  71033bb1a0
@@ -31301,6 +31901,8 @@ koopajr::hammer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::picopicohammer
 000:  71033bb1a0
@@ -31405,6 +32007,8 @@ koopajr::picopicohammer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::magichand
 000:  71033bb1a0
@@ -31509,6 +32113,8 @@ koopajr::magichand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::cannonball
 000:  71033bb1a0
@@ -31613,6 +32219,8 @@ koopajr::cannonball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::kart
 000:  71033bb1a0
@@ -31717,6 +32325,8 @@ koopajr::kart
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::remainclown
 000:  71033bb1a0
@@ -31821,6 +32431,8 @@ koopajr::remainclown
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::shadowmario
 000:  71034271e0
@@ -31925,6 +32537,8 @@ koopajr::shadowmario
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopajr::batten
 000:  71033bb1a0
@@ -32029,6 +32643,8 @@ koopajr::batten
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shulk::dunban
 000:  71033bb1a0
@@ -32133,6 +32749,8 @@ shulk::dunban
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shulk::riki
 000:  71033bb1a0
@@ -32237,6 +32855,8 @@ shulk::riki
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shulk::fiora
 000:  71033bb1a0
@@ -32341,6 +32961,8 @@ shulk::fiora
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::shuriken
 000:  71033bb1a0
@@ -32445,6 +33067,8 @@ gekkouga::shuriken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::water
 000:  71033bb1a0
@@ -32549,6 +33173,8 @@ gekkouga::water
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::tatami
 000:  71033bb1a0
@@ -32653,6 +33279,8 @@ gekkouga::tatami
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::moon
 000:  71033bb1a0
@@ -32757,6 +33385,8 @@ gekkouga::moon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::monsterball
 000:  71033bb1a0
@@ -32861,6 +33491,8 @@ gekkouga::monsterball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::bunshin
 000:  71033bb1a0
@@ -32965,6 +33597,8 @@ gekkouga::bunshin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gekkouga::gekkougas
 000:  7103407c30
@@ -33069,6 +33703,8 @@ gekkouga::gekkougas
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::esa
 000:  71033bb1a0
@@ -33173,6 +33809,8 @@ pacman::esa
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::trampoline
 000:  7103487ad0
@@ -33277,6 +33915,8 @@ pacman::trampoline
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::firehydrant
 000:  7103482910
@@ -33381,6 +34021,8 @@ pacman::firehydrant
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::firehydrantwater
 000:  71033bb1a0
@@ -33485,6 +34127,8 @@ pacman::firehydrantwater
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::bigpacman
 000:  710347db50
@@ -33589,6 +34233,8 @@ pacman::bigpacman
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::artisticpoint
 000:  71033bb1a0
@@ -33693,6 +34339,8 @@ pacman::artisticpoint
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pacman::fairy
 000:  71033bb1a0
@@ -33797,6 +34445,8 @@ pacman::fairy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::rockbuster
 000:  71033bb1a0
@@ -33901,6 +34551,8 @@ rockman::rockbuster
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::crashbomb
 000:  71033bb1a0
@@ -34005,6 +34657,8 @@ rockman::crashbomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::rushcoil
 000:  71033bb1a0
@@ -34109,6 +34763,8 @@ rockman::rushcoil
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::leafshield
 000:  71033bb1a0
@@ -34213,6 +34869,8 @@ rockman::leafshield
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::chargeshot
 000:  71033bb1a0
@@ -34317,6 +34975,8 @@ rockman::chargeshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::hardknuckle
 000:  71034da2d0
@@ -34421,6 +35081,8 @@ rockman::hardknuckle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::blackhole
 000:  71034d6960
@@ -34525,6 +35187,8 @@ rockman::blackhole
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::rockmanx
 000:  71033bb1a0
@@ -34629,6 +35293,8 @@ rockman::rockmanx
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::rockmandash
 000:  71033bb1a0
@@ -34733,6 +35399,8 @@ rockman::rockmandash
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::rockmanexe
 000:  71033bb1a0
@@ -34837,6 +35505,8 @@ rockman::rockmanexe
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::shootingstarrockman
 000:  71033bb1a0
@@ -34941,6 +35611,8 @@ rockman::shootingstarrockman
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::bruce
 000:  71033bb1a0
@@ -35045,6 +35717,8 @@ rockman::bruce
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::forte
 000:  71033bb1a0
@@ -35149,6 +35823,8 @@ rockman::forte
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::leftarm
 000:  71033bb1a0
@@ -35253,6 +35929,8 @@ rockman::leftarm
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::rightarm
 000:  71033bb1a0
@@ -35357,6 +36035,8 @@ rockman::rightarm
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 rockman::airshooter
 000:  71033bb1a0
@@ -35461,6 +36141,8 @@ rockman::airshooter
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mewtwo::shadowball
 000:  71033bb1a0
@@ -35565,6 +36247,8 @@ mewtwo::shadowball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  710344e890
+103:  71033be780
 
 mewtwo::bindball
 000:  71033bb1a0
@@ -35669,6 +36353,8 @@ mewtwo::bindball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mewtwo::mewtwom
 000:  71033bb1a0
@@ -35773,6 +36459,8 @@ mewtwo::mewtwom
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mewtwo::search
 000:  71033bb1a0
@@ -35877,6 +36565,8 @@ mewtwo::search
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mewtwo::psychobreak
 000:  71033bb1a0
@@ -35981,6 +36671,8 @@ mewtwo::psychobreak
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 mewtwo::escapeairdummy
 000:  71033bb1a0
@@ -36085,6 +36777,8 @@ mewtwo::escapeairdummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ryu::hadoken
 000:  71033bb1a0
@@ -36189,6 +36883,8 @@ ryu::hadoken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ryu::shinkuhadoken
 000:  71033bb1a0
@@ -36293,6 +36989,8 @@ ryu::shinkuhadoken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ryu::sack
 000:  71033bb1a0
@@ -36397,6 +37095,8 @@ ryu::sack
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ken::hadoken
 000:  71033bb1a0
@@ -36501,6 +37201,8 @@ ken::hadoken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ken::shinkuhadoken
 000:  71033bb1a0
@@ -36605,6 +37307,8 @@ ken::shinkuhadoken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ken::shinryuken
 000:  71033bb1a0
@@ -36709,6 +37413,8 @@ ken::shinryuken
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::pkfreeze
 000:  71033bb1a0
@@ -36813,6 +37519,8 @@ lucas::pkfreeze
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::pkfire
 000:  71033bb1a0
@@ -36917,6 +37625,8 @@ lucas::pkfire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::pkthunder
 000:  7103435b30
@@ -37021,6 +37731,8 @@ lucas::pkthunder
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::pkstarstorm
 000:  71033bb1a0
@@ -37125,6 +37837,8 @@ lucas::pkstarstorm
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::himohebi
 000:  71033bb1a0
@@ -37229,6 +37943,8 @@ lucas::himohebi
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::himohebi2
 000:  71033bb1a0
@@ -37333,6 +38049,8 @@ lucas::himohebi2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::doseitable
 000:  71033bb1a0
@@ -37437,6 +38155,8 @@ lucas::doseitable
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::needle
 000:  71033bb1a0
@@ -37541,6 +38261,8 @@ lucas::needle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::kumatora
 000:  71033bb1a0
@@ -37645,6 +38367,8 @@ lucas::kumatora
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 lucas::bonnie
 000:  71033bb1a0
@@ -37749,6 +38473,8 @@ lucas::bonnie
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 roy::roysword
 000:  71033bb1a0
@@ -37853,6 +38579,8 @@ roy::roysword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 cloud::wave
 000:  71033bb1a0
@@ -37957,6 +38685,8 @@ cloud::wave
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 cloud::fusionsword
 000:  71033bb1a0
@@ -38061,6 +38791,8 @@ cloud::fusionsword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 bayonetta::specialn_bullet
 000:  71033bb1a0
@@ -38165,6 +38897,8 @@ bayonetta::specialn_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 bayonetta::wickedweavearm
 000:  71033bb1a0
@@ -38269,6 +39003,8 @@ bayonetta::wickedweavearm
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 bayonetta::wickedweaveleg
 000:  71033bb1a0
@@ -38373,6 +39109,8 @@ bayonetta::wickedweaveleg
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 bayonetta::bat
 000:  71033bb1a0
@@ -38477,6 +39215,8 @@ bayonetta::bat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 bayonetta::gomorrah
 000:  71033bb1a0
@@ -38581,6 +39321,8 @@ bayonetta::gomorrah
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 bayonetta::hair
 000:  71033bb1a0
@@ -38685,6 +39427,8 @@ bayonetta::hair
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kamui::ryusensya
 000:  71033bb1a0
@@ -38789,6 +39533,8 @@ kamui::ryusensya
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kamui::dragonhand
 000:  71033bb1a0
@@ -38893,6 +39639,8 @@ kamui::dragonhand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kamui::spearhand
 000:  7103418b70
@@ -38997,6 +39745,8 @@ kamui::spearhand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kamui::waterdragon
 000:  71033bb1a0
@@ -39101,6 +39851,8 @@ kamui::waterdragon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 kamui::waterstream
 000:  71033bb1a0
@@ -39205,6 +39957,8 @@ kamui::waterstream
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::condor
 000:  71033bb1a0
@@ -39309,6 +40063,8 @@ popo::condor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::blizzard
 000:  71033bb1a0
@@ -39413,6 +40169,8 @@ popo::blizzard
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::rubber
 000:  71033bb1a0
@@ -39517,6 +40275,8 @@ popo::rubber
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::iceshot
 000:  71033bb1a0
@@ -39621,6 +40381,8 @@ popo::iceshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::iceberg
 000:  71033bb1a0
@@ -39725,6 +40487,8 @@ popo::iceberg
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::iceberg_wind
 000:  71033bb1a0
@@ -39829,6 +40593,8 @@ popo::iceberg_wind
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::iceberghit
 000:  71033bb1a0
@@ -39933,6 +40699,8 @@ popo::iceberghit
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 popo::whitebear
 000:  71033bb1a0
@@ -40037,6 +40805,8 @@ popo::whitebear
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pzenigame::water
 000:  71033bb1a0
@@ -40141,6 +40911,8 @@ pzenigame::water
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pfushigisou::seed
 000:  71033bb1a0
@@ -40245,6 +41017,8 @@ pfushigisou::seed
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pfushigisou::leafcutter
 000:  71033bb1a0
@@ -40349,6 +41123,8 @@ pfushigisou::leafcutter
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pfushigisou::vine
 000:  71033bb1a0
@@ -40453,6 +41229,8 @@ pfushigisou::vine
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::inkbullet
 000:  71033bb1a0
@@ -40557,6 +41335,8 @@ inkling::inkbullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::splashbomb
 000:  71033bb1a0
@@ -40661,6 +41441,8 @@ inkling::splashbomb
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::squid
 000:  71033bb1a0
@@ -40765,6 +41547,8 @@ inkling::squid
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::roller
 000:  71033bb1a0
@@ -40869,6 +41653,8 @@ inkling::roller
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::rollerink
 000:  71033bb1a0
@@ -40973,6 +41759,8 @@ inkling::rollerink
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::brush
 000:  71033bb1a0
@@ -41077,6 +41865,8 @@ inkling::brush
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::blaster
 000:  71033bb1a0
@@ -41181,6 +41971,8 @@ inkling::blaster
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::slosher
 000:  71033bb1a0
@@ -41285,6 +42077,8 @@ inkling::slosher
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::splash
 000:  71033bb1a0
@@ -41389,6 +42183,8 @@ inkling::splash
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::megaphonelaser
 000:  71033bb1a0
@@ -41493,6 +42289,8 @@ inkling::megaphonelaser
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::copy_inkling_gun
 000:  71033bb1a0
@@ -41597,6 +42395,8 @@ inkling::copy_inkling_gun
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 inkling::copy_inkling_tank
 000:  710340b690
@@ -41701,6 +42501,8 @@ inkling::copy_inkling_tank
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::rpg7
 000:  71033bb1a0
@@ -41805,6 +42607,8 @@ snake::rpg7
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::trenchmortar
 000:  71033bb1a0
@@ -41909,6 +42713,8 @@ snake::trenchmortar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::trenchmortarbullet
 000:  7103505340
@@ -42013,6 +42819,8 @@ snake::trenchmortarbullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::nikita
 000:  71033bb1a0
@@ -42117,6 +42925,8 @@ snake::nikita
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::nikitamissile
 000:  71033bb1a0
@@ -42221,6 +43031,8 @@ snake::nikitamissile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::cypher
 000:  71033bb1a0
@@ -42325,6 +43137,8 @@ snake::cypher
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::c4
 000:  71033bb1a0
@@ -42429,6 +43243,8 @@ snake::c4
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::c4switch
 000:  71033bb1a0
@@ -42533,6 +43349,8 @@ snake::c4switch
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::grenade
 000:  71033bb1a0
@@ -42637,6 +43455,8 @@ snake::grenade
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::flaregrenades
 000:  71033bb1a0
@@ -42741,6 +43561,8 @@ snake::flaregrenades
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::reticle
 000:  71033bb1a0
@@ -42845,6 +43667,8 @@ snake::reticle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::reticle_cursor
 000:  7103503f60
@@ -42949,6 +43773,8 @@ snake::reticle_cursor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::lockoncursor
 000:  71033bb1a0
@@ -43053,6 +43879,8 @@ snake::lockoncursor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::lockoncursorready
 000:  71033bb1a0
@@ -43157,6 +43985,8 @@ snake::lockoncursorready
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 snake::missile
 000:  71033bb1a0
@@ -43261,6 +44091,8 @@ snake::missile
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 krool::backpack
 000:  71033bb1a0
@@ -43365,6 +44197,8 @@ krool::backpack
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 krool::crown
 000:  71033bb1a0
@@ -43469,6 +44303,8 @@ krool::crown
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 krool::piratehat
 000:  71033bb1a0
@@ -43573,6 +44409,8 @@ krool::piratehat
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 krool::blunderbuss
 000:  71033bb1a0
@@ -43677,6 +44515,8 @@ krool::blunderbuss
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 krool::ironball
 000:  71033bb1a0
@@ -43781,6 +44621,8 @@ krool::ironball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 krool::spitball
 000:  71033bb1a0
@@ -43885,6 +44727,8 @@ krool::spitball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::boomerang
 000:  71033bb1a0
@@ -43989,6 +44833,8 @@ younglink::boomerang
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::bow
 000:  71033bb1a0
@@ -44093,6 +44939,8 @@ younglink::bow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::bowarrow
 000:  71033bb1a0
@@ -44197,6 +45045,8 @@ younglink::bowarrow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::hookshot
 000:  71033bb1a0
@@ -44301,6 +45151,8 @@ younglink::hookshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::hookshothand
 000:  71033bb1a0
@@ -44405,6 +45257,8 @@ younglink::hookshothand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::navy
 000:  71033bb1a0
@@ -44509,6 +45363,8 @@ younglink::navy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 younglink::milk
 000:  71033bb1a0
@@ -44613,6 +45469,8 @@ younglink::milk
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::whip
 000:  71034fba70
@@ -44717,6 +45575,8 @@ simon::whip
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::axe
 000:  71033bb1a0
@@ -44821,6 +45681,8 @@ simon::axe
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::cross
 000:  71033bb1a0
@@ -44925,6 +45787,8 @@ simon::cross
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::coffin
 000:  71033bb1a0
@@ -45029,6 +45893,8 @@ simon::coffin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::crystal
 000:  71033bb1a0
@@ -45133,6 +45999,8 @@ simon::crystal
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::whip2
 000:  71033bb1a0
@@ -45237,6 +46105,8 @@ simon::whip2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::whiphand
 000:  71033bb1a0
@@ -45341,6 +46211,8 @@ simon::whiphand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::whipwire
 000:  71033bb1a0
@@ -45445,6 +46317,8 @@ simon::whipwire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 simon::stake
 000:  71033bb1a0
@@ -45549,6 +46423,8 @@ simon::stake
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 chrom::sword
 000:  71033bb1a0
@@ -45653,6 +46529,8 @@ chrom::sword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ridley::breath
 000:  71033bb1a0
@@ -45757,6 +46635,8 @@ ridley::breath
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ridley::gunship
 000:  71033bb1a0
@@ -45861,6 +46741,8 @@ ridley::gunship
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 koopag::breath
 000:  71033bb1a0
@@ -45965,6 +46847,8 @@ koopag::breath
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gaogaen::rope
 000:  71034041f0
@@ -46069,6 +46953,8 @@ gaogaen::rope
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gaogaen::championbelt
 000:  71033bb1a0
@@ -46173,6 +47059,8 @@ gaogaen::championbelt
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gaogaen::monsterball
 000:  71033bb1a0
@@ -46277,6 +47165,8 @@ gaogaen::monsterball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 gaogaen::rope2
 000:  71033bb1a0
@@ -46381,6 +47271,8 @@ gaogaen::rope2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::whip
 000:  71034fba70
@@ -46485,6 +47377,8 @@ richter::whip
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::axe
 000:  71033bb1a0
@@ -46589,6 +47483,8 @@ richter::axe
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::cross
 000:  71033bb1a0
@@ -46693,6 +47589,8 @@ richter::cross
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::coffin
 000:  71033bb1a0
@@ -46797,6 +47695,8 @@ richter::coffin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::crystal
 000:  71033bb1a0
@@ -46901,6 +47801,8 @@ richter::crystal
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::whip2
 000:  71033bb1a0
@@ -47005,6 +47907,8 @@ richter::whip2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::whiphand
 000:  71033bb1a0
@@ -47109,6 +48013,8 @@ richter::whiphand
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::whipwire
 000:  71033bb1a0
@@ -47213,6 +48119,8 @@ richter::whipwire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 richter::stake
 000:  71033bb1a0
@@ -47317,6 +48225,8 @@ richter::stake
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 yellowdevil::beam
 000:  71033bb1a0
@@ -47421,6 +48331,8 @@ yellowdevil::beam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miienemyg::attackairf_bullet
 000:  71033bb1a0
@@ -47525,6 +48437,8 @@ miienemyg::attackairf_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 miienemyg::rapidshot_bullet
 000:  71033bb1a0
@@ -47629,6 +48543,8 @@ miienemyg::rapidshot_bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ptrainer::ptrainer
 000:  71034ca6c0
@@ -47733,6 +48649,8 @@ ptrainer::ptrainer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ptrainer::mball
 000:  71034c8f40
@@ -47837,6 +48755,8 @@ ptrainer::mball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ptrainer::pzenigame
 000:  71033bb1a0
@@ -47941,6 +48861,8 @@ ptrainer::pzenigame
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ptrainer::pfushigisou
 000:  71033bb1a0
@@ -48045,6 +48967,8 @@ ptrainer::pfushigisou
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 ptrainer::plizardon
 000:  71033bb1a0
@@ -48149,6 +49073,8 @@ ptrainer::plizardon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 element::changer
 000:  71033f45b0
@@ -48253,6 +49179,8 @@ element::changer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 element::diver
 000:  71033bb1a0
@@ -48357,6 +49285,8 @@ element::diver
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::pot
 000:  71033bb1a0
@@ -48461,6 +49391,8 @@ shizue::pot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::umbrella
 000:  71033bb1a0
@@ -48565,6 +49497,8 @@ shizue::umbrella
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::weeds
 000:  71033bb1a0
@@ -48669,6 +49603,8 @@ shizue::weeds
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::trafficsign
 000:  71033bb1a0
@@ -48773,6 +49709,8 @@ shizue::trafficsign
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::slingshot
 000:  71033bb1a0
@@ -48877,6 +49815,8 @@ shizue::slingshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::bullet
 000:  71033bb1a0
@@ -48981,6 +49921,8 @@ shizue::bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::balloon
 000:  710345c060
@@ -49085,6 +50027,8 @@ shizue::balloon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::butterflynet
 000:  71033bb1a0
@@ -49189,6 +50133,8 @@ shizue::butterflynet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::office
 000:  71033bb1a0
@@ -49293,6 +50239,8 @@ shizue::office
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::tomnook
 000:  7103467e00
@@ -49397,6 +50345,8 @@ shizue::tomnook
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::tommy
 000:  71033bb1a0
@@ -49501,6 +50451,8 @@ shizue::tommy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::timmy
 000:  71033bb1a0
@@ -49605,6 +50557,8 @@ shizue::timmy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::furniture
 000:  71033bb1a0
@@ -49709,6 +50663,8 @@ shizue::furniture
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::moneybag
 000:  71033bb1a0
@@ -49813,6 +50769,8 @@ shizue::moneybag
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::picopicohammer
 000:  71033bb1a0
@@ -49917,6 +50875,8 @@ shizue::picopicohammer
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::broom
 000:  71033bb1a0
@@ -50021,6 +50981,8 @@ shizue::broom
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::cracker
 000:  71033bb1a0
@@ -50125,6 +51087,8 @@ shizue::cracker
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::bucket
 000:  71033bb1a0
@@ -50229,6 +51193,8 @@ shizue::bucket
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::pompon
 000:  71033bb1a0
@@ -50333,6 +51299,8 @@ shizue::pompon
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::swing
 000:  71033bb1a0
@@ -50437,6 +51405,8 @@ shizue::swing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::clayrocket
 000:  71033bb1a0
@@ -50541,6 +51511,8 @@ shizue::clayrocket
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::fishingrod
 000:  71034f6560
@@ -50645,6 +51617,8 @@ shizue::fishingrod
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 shizue::fishingline
 000:  71033bb1a0
@@ -50749,6 +51723,8 @@ shizue::fishingline
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 packun::spikeball
 000:  710347a0a0
@@ -50853,6 +51829,8 @@ packun::spikeball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 packun::poisonbreath
 000:  71033bb1a0
@@ -50957,6 +51935,8 @@ packun::poisonbreath
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 packun::mario
 000:  71033bb1a0
@@ -51061,6 +52041,8 @@ packun::mario
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 packun::bosspackun
 000:  7103474000
@@ -51165,6 +52147,8 @@ packun::bosspackun
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::doyle
 000:  71033bb1a0
@@ -51269,6 +52253,8 @@ jack::doyle
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::fire
 000:  71033bb1a0
@@ -51373,6 +52359,8 @@ jack::fire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034131c0
 
 jack::fire2
 000:  71033bb1a0
@@ -51477,6 +52465,8 @@ jack::fire2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71034131c0
 
 jack::mona
 000:  71033bb1a0
@@ -51581,6 +52571,8 @@ jack::mona
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::wing
 000:  71033bb1a0
@@ -51685,6 +52677,8 @@ jack::wing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::wirerope
 000:  71033bb1a0
@@ -51789,6 +52783,8 @@ jack::wirerope
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::windummy
 000:  71033bb1a0
@@ -51893,6 +52889,8 @@ jack::windummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::bus
 000:  71033bb1a0
@@ -51997,6 +52995,8 @@ jack::bus
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 jack::background
 000:  71033bb1a0
@@ -52101,6 +53101,8 @@ jack::background
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::fireball
 000:  71033bb1a0
@@ -52205,6 +53207,8 @@ brave::fireball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::spark
 000:  71033bb1a0
@@ -52309,6 +53313,8 @@ brave::spark
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::lightning
 000:  71033bb1a0
@@ -52413,6 +53419,8 @@ brave::lightning
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033cb8e0
 
 brave::tornado
 000:  71033bb1a0
@@ -52517,6 +53525,8 @@ brave::tornado
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::explosion
 000:  71033bb1a0
@@ -52621,6 +53631,8 @@ brave::explosion
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::flash
 000:  71033bb1a0
@@ -52725,6 +53737,8 @@ brave::flash
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::deathball
 000:  71033bb1a0
@@ -52829,6 +53843,8 @@ brave::deathball
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::crash
 000:  71033c5eb0
@@ -52933,6 +53949,8 @@ brave::crash
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::sleep
 000:  71033bb1a0
@@ -53037,6 +54055,8 @@ brave::sleep
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 brave::blue
 000:  71033bb1a0
@@ -53141,6 +54161,8 @@ brave::blue
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::pad
 000:  71033bb1a0
@@ -53245,6 +54267,8 @@ buddy::pad
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::partner
 000:  71033bb1a0
@@ -53349,6 +54373,8 @@ buddy::partner
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::bird
 000:  71033bb1a0
@@ -53453,6 +54479,8 @@ buddy::bird
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::bigbird
 000:  71033bb1a0
@@ -53557,6 +54585,8 @@ buddy::bigbird
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::bigbirdbase
 000:  71033bb1a0
@@ -53661,6 +54691,8 @@ buddy::bigbirdbase
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::bullet
 000:  71033bb1a0
@@ -53765,6 +54797,8 @@ buddy::bullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::piece
 000:  71033bb1a0
@@ -53869,6 +54903,8 @@ buddy::piece
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::strings
 000:  71033bb1a0
@@ -53973,6 +55009,8 @@ buddy::strings
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 buddy::horn
 000:  71033bb1a0
@@ -54077,6 +55115,8 @@ buddy::horn
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dolly::wave
 000:  71033bb1a0
@@ -54181,6 +55221,8 @@ dolly::wave
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dolly::burst
 000:  71033df7d0
@@ -54285,6 +55327,8 @@ dolly::burst
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dolly::cap
 000:  71033bb1a0
@@ -54389,6 +55433,8 @@ dolly::cap
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 dolly::fire
 000:  71033bb1a0
@@ -54493,6 +55539,8 @@ dolly::fire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::axe
 000:  710344a150
@@ -54597,6 +55645,8 @@ master::axe
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::bow
 000:  71033bb1a0
@@ -54701,6 +55751,8 @@ master::bow
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::arrow1
 000:  71034458c0
@@ -54805,6 +55857,8 @@ master::arrow1
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::arrow2
 000:  71034458c0
@@ -54909,6 +55963,8 @@ master::arrow2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::spear
 000:  71033bb1a0
@@ -55013,6 +56069,8 @@ master::spear
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::sword
 000:  71033bb1a0
@@ -55117,6 +56175,8 @@ master::sword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::baton
 000:  71033bb1a0
@@ -55221,6 +56281,8 @@ master::baton
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::background
 000:  71033bb1a0
@@ -55325,6 +56387,8 @@ master::background
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::sword2
 000:  71033bb1a0
@@ -55429,6 +56493,8 @@ master::sword2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 master::swordflare
 000:  71033bb1a0
@@ -55533,6 +56599,8 @@ master::swordflare
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::spiral
 000:  710351d4d0
@@ -55637,6 +56705,8 @@ tantan::spiral
 099:  71033be1e0
 100:  710351c810
 101:  710351c8e0
+102:  71033be0d0
+103:  71033be780
 
 tantan::spiral
 000:  710351d4d0
@@ -55741,6 +56811,8 @@ tantan::spiral
 099:  71033be1e0
 100:  710351c810
 101:  710351c8e0
+102:  71033be0d0
+103:  71033be780
 
 tantan::punch1
 000:  71033bb1a0
@@ -55845,6 +56917,8 @@ tantan::punch1
 099:  71033be1e0
 100:  7103516f70
 101:  7103517050
+102:  71033be0d0
+103:  71033be780
 
 tantan::punch2
 000:  71033bb1a0
@@ -55949,6 +57023,8 @@ tantan::punch2
 099:  71033be1e0
 100:  7103516f70
 101:  7103517050
+102:  71033be0d0
+103:  71033be780
 
 tantan::punch3
 000:  71033bb1a0
@@ -56053,6 +57129,8 @@ tantan::punch3
 099:  71033be1e0
 100:  7103516f70
 101:  7103517050
+102:  71033be0d0
+103:  71033be780
 
 tantan::ring
 000:  71033bb1a0
@@ -56157,6 +57235,8 @@ tantan::ring
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::beam
 000:  71033bb1a0
@@ -56261,6 +57341,8 @@ tantan::beam
 099:  7103514670
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::ally1
 000:  71033bb1a0
@@ -56365,6 +57447,8 @@ tantan::ally1
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::ally2
 000:  71033bb1a0
@@ -56469,6 +57553,8 @@ tantan::ally2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::ally3
 000:  71033bb1a0
@@ -56573,6 +57659,8 @@ tantan::ally3
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::ally4
 000:  71033bb1a0
@@ -56677,6 +57765,8 @@ tantan::ally4
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::ally5
 000:  71033bb1a0
@@ -56781,6 +57871,8 @@ tantan::ally5
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::ally6
 000:  71033bb1a0
@@ -56885,6 +57977,8 @@ tantan::ally6
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarm1
 000:  71033bb1a0
@@ -56989,6 +58083,8 @@ tantan::allyarm1
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarm2
 000:  71033bb1a0
@@ -57093,6 +58189,8 @@ tantan::allyarm2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarm3
 000:  71033bb1a0
@@ -57197,6 +58295,8 @@ tantan::allyarm3
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarm5
 000:  71033bb1a0
@@ -57301,6 +58401,8 @@ tantan::allyarm5
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarm6
 000:  71033bb1a0
@@ -57405,6 +58507,8 @@ tantan::allyarm6
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarmbullet1
 000:  71033bb1a0
@@ -57509,6 +58613,8 @@ tantan::allyarmbullet1
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarmbullet2
 000:  71033bb1a0
@@ -57613,6 +58719,8 @@ tantan::allyarmbullet2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::allyarmbullet3
 000:  71033bb1a0
@@ -57717,6 +58825,8 @@ tantan::allyarmbullet3
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::spiral
 000:  710351d4d0
@@ -57821,6 +58931,8 @@ tantan::spiral
 099:  71033be1e0
 100:  710351c810
 101:  710351c8e0
+102:  71033be0d0
+103:  71033be780
 
 tantan::gongfinal
 000:  71033bb1a0
@@ -57925,6 +59037,8 @@ tantan::gongfinal
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::spiral
 000:  71033bb1a0
@@ -58029,6 +59143,8 @@ tantan::spiral
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 tantan::spiral
 000:  71033bb1a0
@@ -58133,6 +59249,8 @@ tantan::spiral
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::wing
 000:  71033bb1a0
@@ -58237,6 +59355,8 @@ pickel::wing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::crack
 000:  71033bb1a0
@@ -58341,6 +59461,8 @@ pickel::crack
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::trolley
 000:  710349ed70
@@ -58445,6 +59567,8 @@ pickel::trolley
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::rail
 000:  71033bb1a0
@@ -58549,6 +59673,8 @@ pickel::rail
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::plate
 000:  71033bb1a0
@@ -58653,6 +59779,8 @@ pickel::plate
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::stone
 000:  71033bb1a0
@@ -58757,6 +59885,8 @@ pickel::stone
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::table
 000:  71033bb1a0
@@ -58861,6 +59991,8 @@ pickel::table
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::stuff
 000:  71033bb1a0
@@ -58965,6 +60097,8 @@ pickel::stuff
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::building
 000:  71033bb1a0
@@ -59069,6 +60203,8 @@ pickel::building
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::forge
 000:  7103492920
@@ -59173,6 +60309,8 @@ pickel::forge
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::scarier
 000:  71033bb1a0
@@ -59277,6 +60415,8 @@ pickel::scarier
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::sword
 000:  71033bb1a0
@@ -59381,6 +60521,8 @@ pickel::sword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::axe
 000:  71033bb1a0
@@ -59485,6 +60627,8 @@ pickel::axe
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::pick
 000:  71033bb1a0
@@ -59589,6 +60733,8 @@ pickel::pick
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::shovel
 000:  71033bb1a0
@@ -59693,6 +60839,8 @@ pickel::shovel
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::pushobject
 000:  71033bb1a0
@@ -59797,6 +60945,8 @@ pickel::pushobject
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::entryobject
 000:  71033bb1a0
@@ -59901,6 +61051,8 @@ pickel::entryobject
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::fishingrod
 000:  71033bb1a0
@@ -60005,6 +61157,8 @@ pickel::fishingrod
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::melt
 000:  71033bb1a0
@@ -60109,6 +61263,8 @@ pickel::melt
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::fence
 000:  71033bb1a0
@@ -60213,6 +61369,8 @@ pickel::fence
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::fire
 000:  71033bb1a0
@@ -60317,6 +61475,8 @@ pickel::fire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::maskfinal
 000:  71033bb1a0
@@ -60421,6 +61581,8 @@ pickel::maskfinal
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 pickel::pushfinal
 000:  71033bb1a0
@@ -60525,6 +61687,8 @@ pickel::pushfinal
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 edge::fire
 000:  71033bb1a0
@@ -60629,6 +61793,8 @@ edge::fire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 edge::flash
 000:  71033bb1a0
@@ -60733,6 +61899,8 @@ edge::flash
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 edge::flare1
 000:  71033bb1a0
@@ -60837,6 +62005,8 @@ edge::flare1
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 edge::flare2
 000:  71033bb1a0
@@ -60941,6 +62111,8 @@ edge::flare2
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 edge::flaredummy
 000:  71033bb1a0
@@ -61045,6 +62217,8 @@ edge::flaredummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 edge::background
 000:  71033bb1a0
@@ -61149,6 +62323,8 @@ edge::background
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 eflame::esword
 000:  71033bb1a0
@@ -61253,6 +62429,8 @@ eflame::esword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 eflame::firepillar
 000:  71033bb1a0
@@ -61357,6 +62535,8 @@ eflame::firepillar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 eflame::blazepillar
 000:  71033bb1a0
@@ -61461,6 +62641,8 @@ eflame::blazepillar
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 eflame::windummy
 000:  71033bb1a0
@@ -61565,6 +62747,8 @@ eflame::windummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 eflame::winsword
 000:  71033bb1a0
@@ -61669,6 +62853,8 @@ eflame::winsword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::esword
 000:  71033bb1a0
@@ -61773,6 +62959,8 @@ elight::esword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::bunshin
 000:  71033bb1a0
@@ -61877,6 +63065,8 @@ elight::bunshin
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::exprosiveshot
 000:  71033bb1a0
@@ -61981,6 +63171,8 @@ elight::exprosiveshot
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::spreadbullet
 000:  71033bb1a0
@@ -62085,6 +63277,8 @@ elight::spreadbullet
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::meteor
 000:  71033bb1a0
@@ -62189,6 +63383,8 @@ elight::meteor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::beam
 000:  71033bb1a0
@@ -62293,6 +63489,8 @@ elight::beam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::windummy
 000:  71033bb1a0
@@ -62397,6 +63595,8 @@ elight::windummy
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 elight::winsword
 000:  71033bb1a0
@@ -62501,6 +63701,8 @@ elight::winsword
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 demon::blaster
 000:  71033bb1a0
@@ -62605,6 +63807,8 @@ demon::blaster
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 demon::demonp
 000:  71033bb1a0
@@ -62709,6 +63913,8 @@ demon::demonp
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 demon::blasterchest
 000:  71033bb1a0
@@ -62813,6 +64019,8 @@ demon::blasterchest
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 demon::blasterhead
 000:  71033bb1a0
@@ -62917,6 +64125,8 @@ demon::blasterhead
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 demon::blasterwing
 000:  71033bb1a0
@@ -63021,6 +64231,8 @@ demon::blasterwing
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::lockoncursor
 000:  71033bb1a0
@@ -63125,6 +64337,8 @@ trail::lockoncursor
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::fire
 000:  71033bb1a0
@@ -63229,6 +64443,8 @@ trail::fire
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::cloud
 000:  71033bb1a0
@@ -63333,6 +64549,8 @@ trail::cloud
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::thunder
 000:  71033bb1a0
@@ -63437,6 +64655,8 @@ trail::thunder
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::ice
 000:  71033bb1a0
@@ -63541,6 +64761,8 @@ trail::ice
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::beam
 000:  71033bb1a0
@@ -63645,6 +64867,8 @@ trail::beam
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::hole
 000:  7103524c00
@@ -63749,6 +64973,8 @@ trail::hole
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::box
 000:  71033bb1a0
@@ -63853,6 +65079,8 @@ trail::box
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
 trail::flower
 000:  71033bb1a0
@@ -63957,4 +65185,6 @@ trail::flower
 099:  71033be1e0
 100:  71033be760
 101:  71033be770
+102:  71033be0d0
+103:  71033be780
 
