@@ -1,5 +1,5 @@
 fighters = []
-with open('weapon_vtable_documentation.txt', 'r') as file:
+with open('Vtable/weapon_vtable_documentation.txt', 'r') as file:
     content = file.readlines()
     fighter = ["WEAPON"]
     for line in content:
@@ -13,7 +13,7 @@ with open('weapon_vtable_documentation.txt', 'r') as file:
 for i in fighter:
     print(i)
 
-with open('weapon_vtable.txt', 'r') as file:
+with open('Vtable/weapon_vtable_pointers.txt', 'r') as file:
     content = file.readlines()
     fighter = []
     for line in content:
@@ -35,7 +35,7 @@ fighters.pop(1)
 
 fighters = [list(row) for row in zip(*fighters)]
 
-'''import csv
+import csv
 with open('output.csv', 'w', newline='') as f:
     writer = csv.writer(f)
-    writer.writerows(fighters)'''
+    writer.writerows(fighters)
